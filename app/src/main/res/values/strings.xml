@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Blog Post</string>
+    <string name="loading">Loading</string>
+
+    <string name="error">Something went wrong!</string>
+    <string name="no_more_results">No more result Found</string>
+
+    <string name="network_error">Network is not Available</string>
+    <string name="cached">Cached results</string>
+</resources>
